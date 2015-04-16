@@ -9,6 +9,6 @@ Data were taken from the publicly available [IPEDS](http://nces.ed.gov/ipeds/dat
  - sector (i.e., public or private)
  - total price for out-of-state students living off campus (not with family)
  - percent admitted - total
- - Graduation rate total cohort	after 6 years
+ - graduation rate total cohort	after 6 years
 
 This application was built using R and Shiny, and can be seen [here](https://dpmartin42.shinyapps.io/college-choice-app/).
